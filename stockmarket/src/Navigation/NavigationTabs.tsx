@@ -15,7 +15,10 @@ const NavigationTabs = () => {
   return (
     <Tab.Navigator
       screenOptions={{
-        headerShown: false,
+        // headerShown: false,
+        headerStyle: {
+          backgroundColor: Colors.dark600,
+        },
         tabBarStyle: {
           backgroundColor: Colors.dark600,
           borderTopWidth: 0,
