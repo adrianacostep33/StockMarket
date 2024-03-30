@@ -1,30 +1,15 @@
 /* eslint-disable react/no-unstable-nested-components */
 /* eslint-disable react-native/no-inline-styles */
 import React from 'react';
-import {Image} from 'react-native';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 import Home from '../screens/Home';
 import WatchList from '../screens/WatchList';
 import Buy from '../screens/Buy';
 import Account from '../screens/Account';
 import Colors from '../constants/colors';
+import NavigationIcon from '../components/NavigationIcon';
 
 const Tab = createBottomTabNavigator();
-
-interface IconProps {
-  focused: boolean;
-}
-
-const HomeIcon = ({focused}: IconProps) => (
-  <Image
-    source={require('../assets/images/home-icon.png')}
-    style={{
-      width: 20,
-      height: 20,
-      tintColor: focused ? Colors.light600 : Colors.light500,
-    }}
-  />
-);
 
 const NavigationTabs = () => {
   return (
@@ -41,7 +26,12 @@ const NavigationTabs = () => {
         name="Home"
         component={Home}
         options={{
-          tabBarIcon: ({focused}) => <HomeIcon {...{focused}} />,
+          tabBarIcon: ({focused}) => (
+            <NavigationIcon
+              focused={focused}
+              source={require('../assets/images/home-icon.png')}
+            />
+          ),
         }}
       />
       <Tab.Screen
@@ -49,13 +39,9 @@ const NavigationTabs = () => {
         component={Buy}
         options={{
           tabBarIcon: ({focused}) => (
-            <Image
+            <NavigationIcon
+              focused={focused}
               source={require('../assets/images/exchange-money-icon.png')}
-              style={{
-                width: 20,
-                height: 20,
-                tintColor: focused ? Colors.light600 : Colors.light500,
-              }}
             />
           ),
         }}
@@ -66,13 +52,9 @@ const NavigationTabs = () => {
         component={Account}
         options={{
           tabBarIcon: ({focused}) => (
-            <Image
+            <NavigationIcon
+              focused={focused}
               source={require('../assets/images/male-icon.png')}
-              style={{
-                width: 20,
-                height: 20,
-                tintColor: focused ? Colors.light600 : Colors.light500,
-              }}
             />
           ),
         }}
@@ -82,13 +64,9 @@ const NavigationTabs = () => {
         component={WatchList}
         options={{
           tabBarIcon: ({focused}) => (
-            <Image
+            <NavigationIcon
+              focused={focused}
               source={require('../assets/images/watch-list-icon.png')}
-              style={{
-                width: 24,
-                height: 18,
-                tintColor: focused ? Colors.light600 : Colors.light500,
-              }}
             />
           ),
         }}
