@@ -17,7 +17,8 @@ const NavigationTabs = () => {
       screenOptions={{
         headerShown: false,
         tabBarStyle: {
-          backgroundColor: 'black',
+          backgroundColor: Colors.dark600,
+          borderTopWidth: 0,
         },
         tabBarActiveTintColor: Colors.light600,
         tabBarInactiveTintColor: Colors.light500,
