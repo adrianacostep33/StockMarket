@@ -1,26 +1,11 @@
 import * as React from 'react';
 import {NavigationContainer} from '@react-navigation/native';
-import {createNativeStackNavigator} from '@react-navigation/native-stack';
+import NavigationTabs from './Navigation/NavigationTabs';
 
-import HomePageScreen from './screens/HomePageScreen';
-import WatchListScreen from './screens/WatchListScreen';
-
-const Stack = createNativeStackNavigator();
 const App = () => {
   return (
     <NavigationContainer>
-      <Stack.Navigator>
-        <Stack.Screen
-          name="HomePage"
-          component={HomePageScreen}
-          options={{title: 'Welcome'}}
-        />
-        <Stack.Screen
-          name="WatchList"
-          component={WatchListScreen}
-          options={{title: 'Your watch list'}}
-        />
-      </Stack.Navigator>
+      <NavigationTabs />
     </NavigationContainer>
   );
 };
