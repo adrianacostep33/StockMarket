@@ -4,9 +4,10 @@ const Colors = {
   dark800: '#171818',
   light500: '#F5FAFA',
   light600: '#A8ABAB',
-  //   primary700: '#4e0329',
+  green: '#539350',
+  red: '#D12727',
   //   primary800: '#3b021f',
-  //   accent500: '#ddb52f',
+  accent500: '#517DA5',
 };
 
 export default Colors;

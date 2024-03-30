@@ -1,44 +1,13 @@
 import React, {useEffect, useState} from 'react';
 import {FlatList, StyleSheet, Text, View} from 'react-native';
+import axios from 'axios';
 import ScreenWrapper from '../components/ScreenWrapper';
 import Colors from '../constants/colors';
-import axios from 'axios';
-
-interface Stock {
-  symbol: string;
-  name: string;
-  exchange: string;
-  mic_code: string;
-  currency: string;
-  datetime: string;
-  timestamp: number;
-  open: string;
-  high: string;
-  low: string;
-  close: string;
-  volume: string;
-  previous_close: string;
-  change: string;
-  percent_change: string;
-  average_volume: string;
-  is_market_open: boolean;
-  fifty_two_week: {
-    low: string;
-    high: string;
-    low_change: string;
-    high_change: string;
-    low_change_percent: string;
-    high_change_percent: string;
-    range: string;
-  };
-}
-
-type StocksData = {
-  [key: string]: Stock;
-};
+import StockListItem from '../components/StockListItem';
+import {Stock} from '../constants/types';
 
 const Home = () => {
-  const [stocks, setStocks] = useState<StocksData>({});
+  const [stocks, setStocks] = useState<Stock[]>([]);
 
   useEffect(() => {
     axios
@@ -61,7 +30,12 @@ const Home = () => {
         <Text style={styles.title}>Available Stocks</Text>
         <FlatList
           data={stocksData}
-          renderItem={item => <Text>{item.name}</Text>}
+          contentContainerStyle={{gap: 20, padding: 10}}
+          renderItem={item => {
+            console.log({item});
+
+            return <StockListItem stock={item.item} />;
+          }}
         />
       </View>
     </ScreenWrapper>
