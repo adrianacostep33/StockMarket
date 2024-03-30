@@ -1,10 +1,11 @@
-import {View, Text} from 'react-native';
+import {Text} from 'react-native';
 import React from 'react';
+import ScreenWrapper from '../components/ScreenWrapper';
 
 export default function Account() {
   return (
-    <View>
+    <ScreenWrapper>
       <Text>Account</Text>
-    </View>
+    </ScreenWrapper>
   );
 }
