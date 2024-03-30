@@ -1,7 +1,7 @@
 import React from 'react';
 import {Text, View} from 'react-native';
 
-const WatchListScreen = () => {
+const WatchList = () => {
   return (
     <View>
       <Text>WatchListScreen</Text>
@@ -9,4 +9,4 @@ const WatchListScreen = () => {
   );
 };
 
-export default WatchListScreen;
+export default WatchList;
