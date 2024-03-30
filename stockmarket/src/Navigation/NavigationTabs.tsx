@@ -8,6 +8,9 @@ import Buy from '../screens/Buy';
 import Account from '../screens/Account';
 import Colors from '../constants/colors';
 import NavigationIcon from '../components/NavigationIcon';
+import {Pressable, StyleSheet} from 'react-native';
+import {TextInput} from 'react-native-paper';
+import {SafeAreaView} from 'react-native-safe-area-context';
 
 const Tab = createBottomTabNavigator();
 
@@ -17,7 +20,7 @@ const NavigationTabs = () => {
       screenOptions={{
         // headerShown: false,
         headerStyle: {
-          backgroundColor: Colors.dark600,
+          backgroundColor: Colors.dark800,
         },
         tabBarStyle: {
           backgroundColor: Colors.dark600,
@@ -35,6 +38,19 @@ const NavigationTabs = () => {
               focused={focused}
               source={require('../assets/images/home-icon.png')}
             />
+          ),
+          header: () => (
+            <SafeAreaView style={styles.headerContainer}>
+              <Pressable style={styles.searchInputContainer}>
+                <TextInput
+                  style={styles.searchInput}
+                  placeholder="Search Stock..."
+                  placeholderTextColor={Colors.light500}
+                  activeUnderlineColor={Colors.light600}
+                  textColor={Colors.light500}
+                />
+              </Pressable>
+            </SafeAreaView>
           ),
         }}
       />
@@ -80,3 +96,22 @@ const NavigationTabs = () => {
 };
 
 export default NavigationTabs;
+
+const styles = StyleSheet.create({
+  headerContainer: {
+    paddingVertical: 0,
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: Colors.dark800,
+  },
+  searchInputContainer: {
+    flex: 1,
+    padding: 10,
+  },
+  searchInput: {
+    height: 38,
+    backgroundColor: Colors.dark500,
+    color: Colors.light500,
+    // borderRadiusBottom: 10,
+  },
+});
