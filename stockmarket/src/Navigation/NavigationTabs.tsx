@@ -7,6 +7,7 @@ import Home from '../screens/Home';
 import WatchList from '../screens/WatchList';
 import Buy from '../screens/Buy';
 import Account from '../screens/Account';
+import Colors from '../constants/colors';
 
 const Tab = createBottomTabNavigator();
 
@@ -20,7 +21,7 @@ const HomeIcon = ({focused}: IconProps) => (
     style={{
       width: 20,
       height: 20,
-      tintColor: focused ? 'red' : 'white',
+      tintColor: focused ? Colors.light600 : Colors.light500,
     }}
   />
 );
@@ -33,8 +34,8 @@ const NavigationTabs = () => {
         tabBarStyle: {
           backgroundColor: 'black',
         },
-        tabBarActiveTintColor: 'red',
-        tabBarInactiveTintColor: 'white',
+        tabBarActiveTintColor: Colors.light600,
+        tabBarInactiveTintColor: Colors.light500,
       }}>
       <Tab.Screen
         name="Home"
@@ -53,7 +54,7 @@ const NavigationTabs = () => {
               style={{
                 width: 20,
                 height: 20,
-                tintColor: focused ? 'red' : 'white',
+                tintColor: focused ? Colors.light600 : Colors.light500,
               }}
             />
           ),
@@ -70,7 +71,7 @@ const NavigationTabs = () => {
               style={{
                 width: 20,
                 height: 20,
-                tintColor: focused ? 'red' : 'white',
+                tintColor: focused ? Colors.light600 : Colors.light500,
               }}
             />
           ),
@@ -86,7 +87,7 @@ const NavigationTabs = () => {
               style={{
                 width: 24,
                 height: 18,
-                tintColor: focused ? 'red' : 'white',
+                tintColor: focused ? Colors.light600 : Colors.light500,
               }}
             />
           ),
