@@ -2,12 +2,12 @@
 /* eslint-disable react-native/no-inline-styles */
 import React from 'react';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
-import Home from '../screens/Home';
 import WatchList from '../screens/WatchList';
 import Buy from '../screens/Buy';
 import Account from '../screens/Account';
 import Colors from '../constants/colors';
 import NavigationIcon from '../components/NavigationIcon';
+import StockStack from './StockStack';
 
 const Tab = createBottomTabNavigator();
 
@@ -15,9 +15,9 @@ const NavigationTabs = () => {
   return (
     <Tab.Navigator
       screenOptions={{
-        // headerShown: false,
+        headerShown: false,
         headerStyle: {
-          backgroundColor: Colors.dark600,
+          backgroundColor: Colors.dark800,
         },
         tabBarStyle: {
           backgroundColor: Colors.dark600,
@@ -27,8 +27,8 @@ const NavigationTabs = () => {
         tabBarInactiveTintColor: Colors.light500,
       }}>
       <Tab.Screen
-        name="Home"
-        component={Home}
+        name="StockStack"
+        component={StockStack}
         options={{
           tabBarIcon: ({focused}) => (
             <NavigationIcon
@@ -36,6 +36,19 @@ const NavigationTabs = () => {
               source={require('../assets/images/home-icon.png')}
             />
           ),
+          // header: () => (
+          //   <SafeAreaView style={styles.headerContainer}>
+          //     <Pressable style={styles.searchInputContainer}>
+          //       <TextInput
+          //         style={styles.searchInput}
+          //         placeholder="Search Stock..."
+          //         placeholderTextColor={Colors.light500}
+          //         activeUnderlineColor={Colors.light600}
+          //         textColor={Colors.light500}
+          //       />
+          //     </Pressable>
+          //   </SafeAreaView>
+          // ),
         }}
       />
       <Tab.Screen
