@@ -40,7 +40,7 @@ const Home = ({navigation}: HomeProps) => {
               <Pressable
                 onPress={() =>
                   navigation.navigate('StockDetails', {
-                    stockId: item.item.ticker,
+                    stock: item.item,
                   })
                 }>
                 <StockListItem stock={item.item} />

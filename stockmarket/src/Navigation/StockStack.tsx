@@ -14,10 +14,11 @@ import {
 import Colors from '../constants/colors';
 import {useNavigation} from '@react-navigation/native';
 import {NativeStackNavigationProp} from '@react-navigation/native-stack';
+import {Stock} from '../constants/types';
 
 export type RootStackParamList = {
   Home: undefined;
-  StockDetails: {stockId: string};
+  StockDetails: {stock: Stock};
 };
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
