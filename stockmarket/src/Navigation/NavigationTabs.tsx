@@ -2,15 +2,12 @@
 /* eslint-disable react-native/no-inline-styles */
 import React from 'react';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
-import Home from '../screens/Home';
 import WatchList from '../screens/WatchList';
 import Buy from '../screens/Buy';
 import Account from '../screens/Account';
 import Colors from '../constants/colors';
 import NavigationIcon from '../components/NavigationIcon';
-import {Pressable, StyleSheet} from 'react-native';
-import {TextInput} from 'react-native-paper';
-import {SafeAreaView} from 'react-native-safe-area-context';
+import StockStack from './StockStack';
 
 const Tab = createBottomTabNavigator();
 
@@ -18,7 +15,7 @@ const NavigationTabs = () => {
   return (
     <Tab.Navigator
       screenOptions={{
-        // headerShown: false,
+        headerShown: false,
         headerStyle: {
           backgroundColor: Colors.dark800,
         },
@@ -30,8 +27,8 @@ const NavigationTabs = () => {
         tabBarInactiveTintColor: Colors.light500,
       }}>
       <Tab.Screen
-        name="Home"
-        component={Home}
+        name="StockStack"
+        component={StockStack}
         options={{
           tabBarIcon: ({focused}) => (
             <NavigationIcon
@@ -39,19 +36,19 @@ const NavigationTabs = () => {
               source={require('../assets/images/home-icon.png')}
             />
           ),
-          header: () => (
-            <SafeAreaView style={styles.headerContainer}>
-              <Pressable style={styles.searchInputContainer}>
-                <TextInput
-                  style={styles.searchInput}
-                  placeholder="Search Stock..."
-                  placeholderTextColor={Colors.light500}
-                  activeUnderlineColor={Colors.light600}
-                  textColor={Colors.light500}
-                />
-              </Pressable>
-            </SafeAreaView>
-          ),
+          // header: () => (
+          //   <SafeAreaView style={styles.headerContainer}>
+          //     <Pressable style={styles.searchInputContainer}>
+          //       <TextInput
+          //         style={styles.searchInput}
+          //         placeholder="Search Stock..."
+          //         placeholderTextColor={Colors.light500}
+          //         activeUnderlineColor={Colors.light600}
+          //         textColor={Colors.light500}
+          //       />
+          //     </Pressable>
+          //   </SafeAreaView>
+          // ),
         }}
       />
       <Tab.Screen
@@ -96,22 +93,3 @@ const NavigationTabs = () => {
 };
 
 export default NavigationTabs;
-
-const styles = StyleSheet.create({
-  headerContainer: {
-    paddingVertical: 0,
-    flexDirection: 'row',
-    alignItems: 'center',
-    backgroundColor: Colors.dark800,
-  },
-  searchInputContainer: {
-    flex: 1,
-    padding: 10,
-  },
-  searchInput: {
-    height: 38,
-    backgroundColor: Colors.dark500,
-    color: Colors.light500,
-    // borderRadiusBottom: 10,
-  },
-});

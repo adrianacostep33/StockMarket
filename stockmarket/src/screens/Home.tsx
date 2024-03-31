@@ -1,12 +1,16 @@
 import React, {useEffect, useState} from 'react';
-import {FlatList, StyleSheet, Text, View} from 'react-native';
+import {FlatList, Pressable, StyleSheet, Text, View} from 'react-native';
 import axios from 'axios';
 import ScreenWrapper from '../components/ScreenWrapper';
 import Colors from '../constants/colors';
 import StockListItem from '../components/StockListItem';
 import {Stock} from '../constants/types';
+import {NativeStackScreenProps} from '@react-navigation/native-stack';
+import {RootStackParamList} from '../Navigation/StockStack';
 
-const Home = () => {
+type HomeProps = NativeStackScreenProps<RootStackParamList, 'Home'>;
+
+const Home = ({navigation}: HomeProps) => {
   const [stocks, setStocks] = useState<Stock[]>([]);
 
   useEffect(() => {
@@ -34,7 +38,14 @@ const Home = () => {
           renderItem={item => {
             console.log({item});
 
-            return <StockListItem stock={item.item} />;
+            return (
+              <Pressable
+                onPress={() =>
+                  navigation.navigate('StockDetails', {stockId: item.index})
+                }>
+                <StockListItem stock={item.item} />
+              </Pressable>
+            );
           }}
         />
       </View>
