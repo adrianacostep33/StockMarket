@@ -1,9 +1,7 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import {View, Text, StyleSheet} from 'react-native';
 import {NativeStackScreenProps} from '@react-navigation/native-stack';
 import {RootStackParamList} from '../Navigation/StockStack';
-import {useNavigation} from '@react-navigation/native';
-import {NativeStackNavigationProp} from '@react-navigation/native-stack';
 import Colors from '../constants/colors';
 
 type StockDetailsProps = NativeStackScreenProps<
@@ -11,10 +9,12 @@ type StockDetailsProps = NativeStackScreenProps<
   'StockDetails'
 >;
 
-const StockDetails = ({route}: StockDetailsProps) => {
+const StockDetails = ({route, navigation}: StockDetailsProps) => {
   const {stockId} = route.params;
 
-  useNavigation<NativeStackNavigationProp<RootStackParamList>>();
+  useEffect(() => {
+    navigation.setOptions({title: `${stockId}`});
+  }, [navigation, stockId]);
 
   return (
     <View style={styles.container}>
