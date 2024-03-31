@@ -140,5 +140,3280 @@
         "range": "88.860001 - 155.199997"
       }
     }
+  ],
+  "stock-prices": [
+    {
+      "ticker": "AAPL",
+      "prices": [
+        {
+          "value": 0.11496,
+          "date": "6/30/1981"
+        },
+        {
+          "value": 0.05692,
+          "date": "6/29/1982"
+        },
+        {
+          "value": 0.21931,
+          "date": "6/28/1983"
+        },
+        {
+          "value": 0.11272,
+          "date": "6/26/1984"
+        },
+        {
+          "value": 0.078125,
+          "date": "7/2/1985"
+        },
+        {
+          "value": 0.16127,
+          "date": "7/1/1986",
+          "label": "Jul 1986",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 0.35714,
+          "date": "6/30/1987"
+        },
+        {
+          "value": 0.41406,
+          "date": "6/28/1988"
+        },
+        {
+          "value": 0.37277,
+          "date": "6/27/1989"
+        },
+        {
+          "value": 0.38505,
+          "date": "7/2/1991"
+        },
+        {
+          "value": 0.4375,
+          "date": "6/30/1992",
+          "label": "Jun 1992",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 0.35268,
+          "date": "6/29/1993"
+        },
+        {
+          "value": 0.23326,
+          "date": "6/28/1994"
+        },
+        {
+          "value": 0.4163,
+          "date": "6/27/1995"
+        },
+        {
+          "value": 0.17299,
+          "date": "7/2/1996"
+        },
+        {
+          "value": 0.11663,
+          "date": "7/1/1997",
+          "label": "Jul 1997",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 0.2673,
+          "date": "6/30/1998"
+        },
+        {
+          "value": 0.4135,
+          "date": "6/29/1999"
+        },
+        {
+          "value": 0.9721,
+          "date": "6/27/2000"
+        },
+        {
+          "value": 0.31339,
+          "date": "7/2/2002"
+        },
+        {
+          "value": 0.34411,
+          "date": "7/1/2003",
+          "label": "Jul 2003",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 0.58107,
+          "date": "6/29/2004"
+        },
+        {
+          "value": 1.3,
+          "date": "6/28/2005"
+        },
+        {
+          "value": 2,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 6.01,
+          "date": "7/1/2008"
+        },
+        {
+          "value": 5.1,
+          "date": "6/30/2009",
+          "label": "Jun 2009",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 8.98,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 11.93,
+          "date": "6/28/2011"
+        },
+        {
+          "value": 20.52,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 15.03,
+          "date": "7/2/2013"
+        },
+        {
+          "value": 23.37,
+          "date": "7/1/2014",
+          "label": "Jul 2014",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 31.65,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 23.6,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 36.46,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 51.1,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 91.03,
+          "date": "6/30/2020",
+          "label": "Jun 2020",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 136.96,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 139.23,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 189.25,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "prices": [
+        {
+          "value": 0.079427,
+          "date": "7/1/1997"
+        },
+        {
+          "value": 0.95104,
+          "date": "6/30/1998"
+        },
+        {
+          "value": 3.13,
+          "date": "6/29/1999"
+        },
+        {
+          "value": 1.89,
+          "date": "6/27/2000"
+        },
+        {
+          "value": 0.7125,
+          "date": "7/2/2002"
+        },
+        {
+          "value": 1.89,
+          "date": "7/1/2003",
+          "label": "Jul 2003",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 2.72,
+          "date": "6/29/2004"
+        },
+        {
+          "value": 1.67,
+          "date": "6/28/2005"
+        },
+        {
+          "value": 1.84,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 3.57,
+          "date": "7/1/2008"
+        },
+        {
+          "value": 4.08,
+          "date": "6/30/2009",
+          "label": "Jun 2009",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 5.46,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 10.21,
+          "date": "6/28/2011"
+        },
+        {
+          "value": 11.28,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 14.2,
+          "date": "7/2/2013"
+        },
+        {
+          "value": 16.64,
+          "date": "7/1/2014",
+          "label": "Jul 2014",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 21.87,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 35.78,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 49.52,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 96.95,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 143.93,
+          "date": "6/30/2020",
+          "label": "Jun 2020",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 172.01,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 108.92,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 129.04,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "prices": [
+        {
+          "value": 18.8375,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 20.46,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 15.94,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 38.8175,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 67.215,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 52.36,
+          "date": "6/30/2020",
+          "label": "Jun 2020",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 90.5775,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 94.93,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 155.86,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "BAC",
+      "prices": [
+        {
+          "value": 2,
+          "date": "7/2/1974"
+        },
+        {
+          "value": 1.53,
+          "date": "7/1/1975"
+        },
+        {
+          "value": 1.33,
+          "date": "6/29/1976"
+        },
+        {
+          "value": 1.38,
+          "date": "6/28/1977"
+        },
+        {
+          "value": 1.61,
+          "date": "6/27/1978"
+        },
+        {
+          "value": 1.92,
+          "date": "7/1/1980",
+          "label": "Jul 1980",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 2.02,
+          "date": "6/30/1981"
+        },
+        {
+          "value": 1.59,
+          "date": "6/29/1982"
+        },
+        {
+          "value": 3.22,
+          "date": "6/28/1983"
+        },
+        {
+          "value": 3,
+          "date": "6/26/1984"
+        },
+        {
+          "value": 5.41,
+          "date": "7/2/1985",
+          "label": "Jul 1985",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 6.69,
+          "date": "7/1/1986"
+        },
+        {
+          "value": 6.38,
+          "date": "6/30/1987"
+        },
+        {
+          "value": 6,
+          "date": "6/28/1988"
+        },
+        {
+          "value": 11.88,
+          "date": "6/27/1989"
+        },
+        {
+          "value": 9.22,
+          "date": "7/2/1991",
+          "label": "Jul 1991",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 12.09,
+          "date": "6/30/1992"
+        },
+        {
+          "value": 12.41,
+          "date": "6/29/1993"
+        },
+        {
+          "value": 13.13,
+          "date": "6/28/1994"
+        },
+        {
+          "value": 13.72,
+          "date": "6/27/1995"
+        },
+        {
+          "value": 21.16,
+          "date": "7/2/1996",
+          "label": "Jul 1996",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 33.06,
+          "date": "7/1/1997"
+        },
+        {
+          "value": 39.97,
+          "date": "6/30/1998"
+        },
+        {
+          "value": 36.66,
+          "date": "6/29/1999"
+        },
+        {
+          "value": 22.71,
+          "date": "6/27/2000"
+        },
+        {
+          "value": 34.4,
+          "date": "7/2/2002",
+          "label": "Jul 2002",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 40.2,
+          "date": "7/1/2003"
+        },
+        {
+          "value": 42.31,
+          "date": "6/29/2004"
+        },
+        {
+          "value": 46.91,
+          "date": "6/28/2005"
+        },
+        {
+          "value": 47.65,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 22.54,
+          "date": "7/1/2008",
+          "label": "Jul 2008",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 13.05,
+          "date": "6/30/2009"
+        },
+        {
+          "value": 14.37,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 11.14,
+          "date": "6/28/2011"
+        },
+        {
+          "value": 7.77,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 12.83,
+          "date": "7/2/2013",
+          "label": "Jul 2013",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 15.85,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 17.22,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 13.19,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 23.88,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 29.05,
+          "date": "7/2/2019",
+          "label": "Jul 2019",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 23.26,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 41.23,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 31.86,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 28.07,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "C",
+      "prices": [
+        {
+          "value": 16.6,
+          "date": "6/28/1977"
+        },
+        {
+          "value": 17.59,
+          "date": "6/27/1978"
+        },
+        {
+          "value": 13.59,
+          "date": "7/1/1980"
+        },
+        {
+          "value": 16.6,
+          "date": "6/30/1981"
+        },
+        {
+          "value": 12.04,
+          "date": "6/29/1982"
+        },
+        {
+          "value": 18.21,
+          "date": "6/28/1983",
+          "label": "Jun 1983",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 18.93,
+          "date": "6/26/1984"
+        },
+        {
+          "value": 24.17,
+          "date": "7/2/1985"
+        },
+        {
+          "value": 33.77,
+          "date": "7/1/1986"
+        },
+        {
+          "value": 34.24,
+          "date": "6/30/1987"
+        },
+        {
+          "value": 22.51,
+          "date": "6/28/1988",
+          "label": "Jun 1988",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 19.19,
+          "date": "6/27/1989"
+        },
+        {
+          "value": 22.72,
+          "date": "7/2/1991"
+        },
+        {
+          "value": 32.78,
+          "date": "6/30/1992"
+        },
+        {
+          "value": 65.52,
+          "date": "6/29/1993"
+        },
+        {
+          "value": 55.4,
+          "date": "6/28/1994",
+          "label": "Jun 1994",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 70.76,
+          "date": "6/27/1995"
+        },
+        {
+          "value": 114.69,
+          "date": "7/2/1996"
+        },
+        {
+          "value": 222.92,
+          "date": "7/1/1997"
+        },
+        {
+          "value": 315.63,
+          "date": "6/30/1998"
+        },
+        {
+          "value": 356.25,
+          "date": "6/29/1999",
+          "label": "Jun 1999",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 481.41,
+          "date": "6/27/2000"
+        },
+        {
+          "value": 370.1,
+          "date": "7/2/2002"
+        },
+        {
+          "value": 444,
+          "date": "7/1/2003"
+        },
+        {
+          "value": 465,
+          "date": "6/29/2004"
+        },
+        {
+          "value": 467.8,
+          "date": "6/28/2005",
+          "label": "Jun 2005",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 478.5,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 168.4,
+          "date": "7/1/2008"
+        },
+        {
+          "value": 29.7,
+          "date": "6/30/2009"
+        },
+        {
+          "value": 37.6,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 41.5,
+          "date": "6/28/2011",
+          "label": "Jun 2011",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 27.1,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 47.67,
+          "date": "7/2/2013"
+        },
+        {
+          "value": 48.01,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 55.68,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 42.12,
+          "date": "6/28/2016",
+          "label": "Jun 2016",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 65.18,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 70.85,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 50.35,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 70.75,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 47.1,
+          "date": "6/28/2022",
+          "label": "Jun 2022",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 46.23,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "COST",
+      "prices": [
+        {
+          "value": 11.25,
+          "date": "6/30/1987"
+        },
+        {
+          "value": 9.5,
+          "date": "6/28/1988"
+        },
+        {
+          "value": 10.5,
+          "date": "6/27/1989"
+        },
+        {
+          "value": 13.44,
+          "date": "7/2/1991"
+        },
+        {
+          "value": 8.63,
+          "date": "6/30/1992"
+        },
+        {
+          "value": 8.5,
+          "date": "6/29/1993",
+          "label": "Jun 1993",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 7.31,
+          "date": "6/28/1994"
+        },
+        {
+          "value": 8,
+          "date": "6/27/1995"
+        },
+        {
+          "value": 10.63,
+          "date": "7/2/1996"
+        },
+        {
+          "value": 15.72,
+          "date": "7/1/1997"
+        },
+        {
+          "value": 30.78,
+          "date": "6/30/1998",
+          "label": "Jun 1998",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 40.03,
+          "date": "6/29/1999"
+        },
+        {
+          "value": 32.31,
+          "date": "6/27/2000"
+        },
+        {
+          "value": 37.8,
+          "date": "7/2/2002"
+        },
+        {
+          "value": 36.75,
+          "date": "7/1/2003"
+        },
+        {
+          "value": 41.18,
+          "date": "6/29/2004",
+          "label": "Jun 2004",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 45.19,
+          "date": "6/28/2005"
+        },
+        {
+          "value": 56.06,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 72.13,
+          "date": "7/1/2008"
+        },
+        {
+          "value": 45.79,
+          "date": "6/30/2009"
+        },
+        {
+          "value": 54.83,
+          "date": "6/29/2010",
+          "label": "Jun 2010",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 80.03,
+          "date": "6/28/2011"
+        },
+        {
+          "value": 91.32,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 110.91,
+          "date": "7/2/2013"
+        },
+        {
+          "value": 115.75,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 136.49,
+          "date": "6/30/2015",
+          "label": "Jun 2015",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 157.08,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 160.17,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 269.14,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 304.75,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 395.67,
+          "date": "6/29/2021",
+          "label": "Jun 2021",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 469.84,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 532.8,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "CPRT",
+      "prices": [
+        {
+          "value": 0.15495,
+          "date": "6/28/1994"
+        },
+        {
+          "value": 0.23438,
+          "date": "6/27/1995"
+        },
+        {
+          "value": 0.17188,
+          "date": "7/2/1996"
+        },
+        {
+          "value": 0.16797,
+          "date": "7/1/1997"
+        },
+        {
+          "value": 0.22461,
+          "date": "6/30/1998"
+        },
+        {
+          "value": 0.44271,
+          "date": "6/29/1999",
+          "label": "Jun 1999",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 0.72917,
+          "date": "6/27/2000"
+        },
+        {
+          "value": 0.985,
+          "date": "7/2/2002"
+        },
+        {
+          "value": 0.57875,
+          "date": "7/1/2003"
+        },
+        {
+          "value": 1.67,
+          "date": "6/29/2004"
+        },
+        {
+          "value": 1.5,
+          "date": "6/28/2005",
+          "label": "Jun 2005",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 1.49,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 2.53,
+          "date": "7/1/2008"
+        },
+        {
+          "value": 2.18,
+          "date": "6/30/2009"
+        },
+        {
+          "value": 2.24,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 2.88,
+          "date": "6/28/2011",
+          "label": "Jun 2011",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 2.87,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 3.92,
+          "date": "7/2/2013"
+        },
+        {
+          "value": 4.49,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 4.46,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 6.01,
+          "date": "6/28/2016",
+          "label": "Jun 2016",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 7.88,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 18.74,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 21.15,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 32.96,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 27.27,
+          "date": "6/28/2022",
+          "label": "Jun 2022",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 44.86,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "prices": [
+        {
+          "value": 4.09,
+          "date": "Invalid Date"
+        },
+        {
+          "value": 4.02,
+          "date": "Invalid Date"
+        },
+        {
+          "value": 4.27,
+          "date": "Invalid Date"
+        },
+        {
+          "value": 3.93,
+          "date": "Invalid Date"
+        },
+        {
+          "value": 3.45,
+          "date": "Invalid Date"
+        },
+        {
+          "value": 3.92,
+          "date": "Invalid Date",
+          "label": "Invalid Date",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 4.19,
+          "date": "Invalid Date"
+        },
+        {
+          "value": 2.51,
+          "date": "6/30/1970"
+        },
+        {
+          "value": 3.55,
+          "date": "6/29/1971"
+        },
+        {
+          "value": 3.76,
+          "date": "6/27/1972"
+        },
+        {
+          "value": 3.33,
+          "date": "7/2/1974",
+          "label": "Jul 1974",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 3.88,
+          "date": "7/1/1975"
+        },
+        {
+          "value": 4.75,
+          "date": "6/29/1976"
+        },
+        {
+          "value": 5.25,
+          "date": "6/28/1977"
+        },
+        {
+          "value": 4.98,
+          "date": "6/27/1978"
+        },
+        {
+          "value": 9.69,
+          "date": "7/1/1980",
+          "label": "Jul 1980",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 9.5,
+          "date": "6/30/1981"
+        },
+        {
+          "value": 7.19,
+          "date": "6/29/1982"
+        },
+        {
+          "value": 9.66,
+          "date": "6/28/1983"
+        },
+        {
+          "value": 8.53,
+          "date": "6/26/1984"
+        },
+        {
+          "value": 9.25,
+          "date": "7/2/1985",
+          "label": "Jul 1985",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 9.69,
+          "date": "7/1/1986"
+        },
+        {
+          "value": 15.31,
+          "date": "6/30/1987"
+        },
+        {
+          "value": 11.69,
+          "date": "6/28/1988"
+        },
+        {
+          "value": 13.78,
+          "date": "6/27/1989"
+        },
+        {
+          "value": 17.38,
+          "date": "7/2/1991",
+          "label": "Jul 1991",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 16.63,
+          "date": "6/30/1992"
+        },
+        {
+          "value": 21.94,
+          "date": "6/29/1993"
+        },
+        {
+          "value": 21.19,
+          "date": "6/28/1994"
+        },
+        {
+          "value": 24.19,
+          "date": "6/27/1995"
+        },
+        {
+          "value": 30.06,
+          "date": "7/2/1996",
+          "label": "Jul 1996",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 37.69,
+          "date": "7/1/1997"
+        },
+        {
+          "value": 42.47,
+          "date": "6/30/1998"
+        },
+        {
+          "value": 47.53,
+          "date": "6/29/1999"
+        },
+        {
+          "value": 43.79,
+          "date": "6/27/2000"
+        },
+        {
+          "value": 43.35,
+          "date": "7/2/2002",
+          "label": "Jul 2002",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 36.33,
+          "date": "7/1/2003"
+        },
+        {
+          "value": 47.06,
+          "date": "6/29/2004"
+        },
+        {
+          "value": 56.76,
+          "date": "6/28/2005"
+        },
+        {
+          "value": 61.36,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 97.42,
+          "date": "7/1/2008",
+          "label": "Jul 2008",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 66.52,
+          "date": "6/30/2009"
+        },
+        {
+          "value": 67.86,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 101.28,
+          "date": "6/28/2011"
+        },
+        {
+          "value": 102.57,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 119.08,
+          "date": "7/2/2013",
+          "label": "Jul 2013",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 130.23,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 96.09,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 103.42,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 104.28,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 123.35,
+          "date": "7/2/2019",
+          "label": "Jul 2019",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 87.62,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 104.74,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 146.98,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 154.92,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "prices": [
+        {
+          "value": 7.33,
+          "date": "6/28/2005"
+        },
+        {
+          "value": 10.16,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 13.19,
+          "date": "7/1/2008"
+        },
+        {
+          "value": 10.49,
+          "date": "6/30/2009"
+        },
+        {
+          "value": 11.13,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 12.45,
+          "date": "6/28/2011",
+          "label": "Jun 2011",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 14.25,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 22.18,
+          "date": "7/2/2013"
+        },
+        {
+          "value": 29.54,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 27.17,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 34.76,
+          "date": "6/28/2016",
+          "label": "Jun 2016",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 48.05,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 56.15,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 72.1,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 122.09,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 111.7,
+          "date": "6/28/2022",
+          "label": "Jun 2022",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 120.18,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "INTU",
+      "prices": [
+        {
+          "value": 2.71,
+          "date": "6/29/1993"
+        },
+        {
+          "value": 2.82,
+          "date": "6/28/1994"
+        },
+        {
+          "value": 6.08,
+          "date": "6/27/1995"
+        },
+        {
+          "value": 7.92,
+          "date": "7/2/1996"
+        },
+        {
+          "value": 4.04,
+          "date": "7/1/1997"
+        },
+        {
+          "value": 10.69,
+          "date": "6/30/1998",
+          "label": "Jun 1998",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 15.02,
+          "date": "6/29/1999"
+        },
+        {
+          "value": 19.41,
+          "date": "6/27/2000"
+        },
+        {
+          "value": 24.04,
+          "date": "7/2/2002"
+        },
+        {
+          "value": 22.58,
+          "date": "7/1/2003"
+        },
+        {
+          "value": 19.29,
+          "date": "6/29/2004",
+          "label": "Jun 2004",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 22.56,
+          "date": "6/28/2005"
+        },
+        {
+          "value": 29.58,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 27.24,
+          "date": "7/1/2008"
+        },
+        {
+          "value": 28.42,
+          "date": "6/30/2009"
+        },
+        {
+          "value": 34.77,
+          "date": "6/29/2010",
+          "label": "Jun 2010",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 51.75,
+          "date": "6/28/2011"
+        },
+        {
+          "value": 57.52,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 62.38,
+          "date": "7/2/2013"
+        },
+        {
+          "value": 81.3,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 101.62,
+          "date": "6/30/2015",
+          "label": "Jun 2015",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 109.29,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 135.37,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 270.17,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 302.58,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 490.17,
+          "date": "6/29/2021",
+          "label": "Jun 2021",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 389.66,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 459.63,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "prices": [
+        {
+          "value": 5.94,
+          "date": "7/1/1980"
+        },
+        {
+          "value": 8.56,
+          "date": "6/30/1981"
+        },
+        {
+          "value": 6.83,
+          "date": "6/29/1982"
+        },
+        {
+          "value": 10.58,
+          "date": "6/28/1983"
+        },
+        {
+          "value": 8.42,
+          "date": "6/26/1984"
+        },
+        {
+          "value": 14,
+          "date": "7/2/1985",
+          "label": "Jul 1985",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 17.29,
+          "date": "7/1/1986"
+        },
+        {
+          "value": 13.96,
+          "date": "6/30/1987"
+        },
+        {
+          "value": 10,
+          "date": "6/28/1988"
+        },
+        {
+          "value": 12.13,
+          "date": "6/27/1989"
+        },
+        {
+          "value": 6.88,
+          "date": "7/2/1991",
+          "label": "Jul 1991",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 12.63,
+          "date": "6/30/1992"
+        },
+        {
+          "value": 13.63,
+          "date": "6/29/1993"
+        },
+        {
+          "value": 12.79,
+          "date": "6/28/1994"
+        },
+        {
+          "value": 16.08,
+          "date": "6/27/1995"
+        },
+        {
+          "value": 23.79,
+          "date": "7/2/1996",
+          "label": "Jul 1996",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 34.17,
+          "date": "7/1/1997"
+        },
+        {
+          "value": 50.33,
+          "date": "6/30/1998"
+        },
+        {
+          "value": 57.67,
+          "date": "6/29/1999"
+        },
+        {
+          "value": 47.05,
+          "date": "6/27/2000"
+        },
+        {
+          "value": 30.95,
+          "date": "7/2/2002",
+          "label": "Jul 2002",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 34.37,
+          "date": "7/1/2003"
+        },
+        {
+          "value": 38.77,
+          "date": "6/29/2004"
+        },
+        {
+          "value": 35.96,
+          "date": "6/28/2005"
+        },
+        {
+          "value": 41.27,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 34.6,
+          "date": "7/1/2008",
+          "label": "Jul 2008",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 33.77,
+          "date": "6/30/2009"
+        },
+        {
+          "value": 36.61,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 40.45,
+          "date": "6/28/2011"
+        },
+        {
+          "value": 36.78,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 52.77,
+          "date": "7/2/2013",
+          "label": "Jul 2013",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 56.97,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 68.07,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 61.2,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 89.82,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 112.82,
+          "date": "7/2/2019",
+          "label": "Jul 2019",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 93.26,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 155.54,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 115.3,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 138.59,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "KNSL",
+      "prices": [
+        {
+          "value": 37.88,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 94.53,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 156.95,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 164.77,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 222.49,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 364.14,
+          "date": "6/27/2023",
+          "label": "Jun 2023",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        }
+      ]
+    },
+    {
+      "ticker": "MA",
+      "prices": [
+        {
+          "value": 4.7,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 25.55,
+          "date": "7/1/2008"
+        },
+        {
+          "value": 16.58,
+          "date": "6/30/2009"
+        },
+        {
+          "value": 19.95,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 30.97,
+          "date": "6/28/2011"
+        },
+        {
+          "value": 43.19,
+          "date": "6/26/2012",
+          "label": "Jun 2012",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 58.62,
+          "date": "7/2/2013"
+        },
+        {
+          "value": 76.2,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 94.5,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 92.13,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 124.81,
+          "date": "6/27/2017",
+          "label": "Jun 2017",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 273.08,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 301.17,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 365.09,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 322.59,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 380.23,
+          "date": "6/27/2023",
+          "label": "Jun 2023",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "prices": [
+        {
+          "value": 32.23,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 24.52,
+          "date": "7/2/2013"
+        },
+        {
+          "value": 66.45,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 86.91,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 114.16,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 153.24,
+          "date": "6/27/2017",
+          "label": "Jun 2017",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 197.2,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 237.55,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 347.71,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 163.94,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 285.29,
+          "date": "6/27/2023",
+          "label": "Jun 2023",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "prices": [
+        {
+          "value": 0.10677,
+          "date": "7/1/1986"
+        },
+        {
+          "value": 0.3559,
+          "date": "6/30/1987"
+        },
+        {
+          "value": 0.4566,
+          "date": "6/28/1988"
+        },
+        {
+          "value": 0.36632,
+          "date": "6/27/1989"
+        },
+        {
+          "value": 1.33,
+          "date": "7/2/1991"
+        },
+        {
+          "value": 2.25,
+          "date": "6/30/1992",
+          "label": "Jun 1992",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 2.75,
+          "date": "6/29/1993"
+        },
+        {
+          "value": 3.21,
+          "date": "6/28/1994"
+        },
+        {
+          "value": 5.49,
+          "date": "6/27/1995"
+        },
+        {
+          "value": 7.57,
+          "date": "7/2/1996"
+        },
+        {
+          "value": 16.05,
+          "date": "7/1/1997",
+          "label": "Jul 1997",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 27.34,
+          "date": "6/30/1998"
+        },
+        {
+          "value": 45.09,
+          "date": "6/29/1999"
+        },
+        {
+          "value": 39.47,
+          "date": "6/27/2000"
+        },
+        {
+          "value": 25.92,
+          "date": "7/2/2002"
+        },
+        {
+          "value": 26.88,
+          "date": "7/1/2003",
+          "label": "Jul 2003",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 28.56,
+          "date": "6/29/2004"
+        },
+        {
+          "value": 25.09,
+          "date": "6/28/2005"
+        },
+        {
+          "value": 23.16,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 25.88,
+          "date": "7/1/2008"
+        },
+        {
+          "value": 24.04,
+          "date": "6/30/2009",
+          "label": "Jun 2009",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 23.01,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 25.62,
+          "date": "6/28/2011"
+        },
+        {
+          "value": 30.17,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 34.01,
+          "date": "7/2/2013"
+        },
+        {
+          "value": 41.9,
+          "date": "7/1/2014",
+          "label": "Jul 2014",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 44.45,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 50.54,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 69.8,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 137.46,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 204.7,
+          "date": "6/30/2020",
+          "label": "Jun 2020",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 270.9,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 260.26,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 335.85,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "MUSA",
+      "prices": [
+        {
+          "value": 49.06,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 56.55,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 73.29,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 72.84,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 84.97,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 111.97,
+          "date": "6/30/2020",
+          "label": "Jun 2020",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 133.37,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 232.68,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 297.14,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "prices": [
+        {
+          "value": 0.39844,
+          "date": "6/29/1999"
+        },
+        {
+          "value": 2.85,
+          "date": "6/27/2000"
+        },
+        {
+          "value": 1.45,
+          "date": "7/2/2002"
+        },
+        {
+          "value": 1.98,
+          "date": "7/1/2003"
+        },
+        {
+          "value": 1.71,
+          "date": "6/29/2004"
+        },
+        {
+          "value": 2.23,
+          "date": "6/28/2005",
+          "label": "Jun 2005",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 3.43,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 4.51,
+          "date": "7/1/2008"
+        },
+        {
+          "value": 2.84,
+          "date": "6/30/2009"
+        },
+        {
+          "value": 2.55,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 3.94,
+          "date": "6/28/2011",
+          "label": "Jun 2011",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 3.29,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 3.53,
+          "date": "7/2/2013"
+        },
+        {
+          "value": 4.67,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 5.1,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 11.66,
+          "date": "6/28/2016",
+          "label": "Jun 2016",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 37.94,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 40.69,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 95.3,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 200.02,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 155.42,
+          "date": "6/28/2022",
+          "label": "Jun 2022",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 411.17,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "ODFL",
+      "prices": [
+        {
+          "value": 1.45,
+          "date": "6/30/1992"
+        },
+        {
+          "value": 1.38,
+          "date": "6/29/1993"
+        },
+        {
+          "value": 1.69,
+          "date": "6/28/1994"
+        },
+        {
+          "value": 1.12,
+          "date": "6/27/1995"
+        },
+        {
+          "value": 0.89986,
+          "date": "7/2/1996"
+        },
+        {
+          "value": 1.22,
+          "date": "7/1/1997",
+          "label": "Jul 1997",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 1.4,
+          "date": "6/30/1998"
+        },
+        {
+          "value": 1.04,
+          "date": "6/29/1999"
+        },
+        {
+          "value": 0.86694,
+          "date": "6/27/2000"
+        },
+        {
+          "value": 1.36,
+          "date": "7/2/2002"
+        },
+        {
+          "value": 2.88,
+          "date": "7/1/2003",
+          "label": "Jul 2003",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 5.82,
+          "date": "6/29/2004"
+        },
+        {
+          "value": 5.37,
+          "date": "6/28/2005"
+        },
+        {
+          "value": 10.35,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 8.57,
+          "date": "7/1/2008"
+        },
+        {
+          "value": 10.15,
+          "date": "6/30/2009",
+          "label": "Jun 2009",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 10.41,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 16.24,
+          "date": "6/28/2011"
+        },
+        {
+          "value": 18.64,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 28.58,
+          "date": "7/2/2013"
+        },
+        {
+          "value": 42.82,
+          "date": "7/1/2014",
+          "label": "Jul 2014",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 46.01,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 39.61,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 63.83,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 99.69,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 168.36,
+          "date": "6/30/2020",
+          "label": "Jun 2020",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 253.8,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 255.29,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 370.29,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "QLYS",
+      "prices": [
+        {
+          "value": 16.03,
+          "date": "7/2/2013"
+        },
+        {
+          "value": 25.86,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 40.04,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 29.43,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 41.9,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 87.99,
+          "date": "7/2/2019",
+          "label": "Jul 2019",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 104.01,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 100.69,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 129.42,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 125.7,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "USB",
+      "prices": [
+        {
+          "value": 0.38056,
+          "date": "7/2/1974"
+        },
+        {
+          "value": 0.46944,
+          "date": "7/1/1975"
+        },
+        {
+          "value": 0.56111,
+          "date": "6/29/1976"
+        },
+        {
+          "value": 0.66111,
+          "date": "6/28/1977"
+        },
+        {
+          "value": 0.66111,
+          "date": "6/27/1978"
+        },
+        {
+          "value": 0.73611,
+          "date": "7/1/1980",
+          "label": "Jul 1980",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 0.70139,
+          "date": "6/30/1981"
+        },
+        {
+          "value": 0.65278,
+          "date": "6/29/1982"
+        },
+        {
+          "value": 1.18,
+          "date": "6/28/1983"
+        },
+        {
+          "value": 1.09,
+          "date": "6/26/1984"
+        },
+        {
+          "value": 2.22,
+          "date": "7/2/1985",
+          "label": "Jul 1985",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 2.67,
+          "date": "7/1/1986"
+        },
+        {
+          "value": 2.17,
+          "date": "6/30/1987"
+        },
+        {
+          "value": 2.28,
+          "date": "6/28/1988"
+        },
+        {
+          "value": 2.56,
+          "date": "6/27/1989"
+        },
+        {
+          "value": 2.31,
+          "date": "7/2/1991",
+          "label": "Jul 1991",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 3.53,
+          "date": "6/30/1992"
+        },
+        {
+          "value": 4,
+          "date": "6/29/1993"
+        },
+        {
+          "value": 4.18,
+          "date": "6/28/1994"
+        },
+        {
+          "value": 5.07,
+          "date": "6/27/1995"
+        },
+        {
+          "value": 7.74,
+          "date": "7/2/1996",
+          "label": "Jul 1996",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 14.5,
+          "date": "7/1/1997"
+        },
+        {
+          "value": 21.21,
+          "date": "6/30/1998"
+        },
+        {
+          "value": 28,
+          "date": "6/29/1999"
+        },
+        {
+          "value": 22.39,
+          "date": "6/27/2000"
+        },
+        {
+          "value": 21.76,
+          "date": "7/2/2002",
+          "label": "Jul 2002",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 24.77,
+          "date": "7/1/2003"
+        },
+        {
+          "value": 27.56,
+          "date": "6/29/2004"
+        },
+        {
+          "value": 29.37,
+          "date": "6/28/2005"
+        },
+        {
+          "value": 30.79,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 28.1,
+          "date": "7/1/2008",
+          "label": "Jul 2008",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 17.58,
+          "date": "6/30/2009"
+        },
+        {
+          "value": 22.35,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 25.33,
+          "date": "6/28/2011"
+        },
+        {
+          "value": 31.43,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 36.35,
+          "date": "7/2/2013",
+          "label": "Jul 2013",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 43.25,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 44.15,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 39.68,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 51.98,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 53.25,
+          "date": "7/2/2019",
+          "label": "Jul 2019",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 35.98,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 56.97,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 46.12,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 32.32,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "V",
+      "prices": [
+        {
+          "value": 19.86,
+          "date": "7/1/2008"
+        },
+        {
+          "value": 15.2,
+          "date": "6/30/2009"
+        },
+        {
+          "value": 17.69,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 21.64,
+          "date": "6/28/2011"
+        },
+        {
+          "value": 30.86,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 46.76,
+          "date": "7/2/2013",
+          "label": "Jul 2013",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 53.71,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 67.85,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 76.74,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 96.23,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 176.87,
+          "date": "7/2/2019",
+          "label": "Jul 2019",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 193.78,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 233.82,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 199.5,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 227.96,
+          "date": "6/27/2023"
+        }
+      ]
+    },
+    {
+      "ticker": "WFC",
+      "prices": [
+        {
+          "value": 0.94792,
+          "date": "6/27/1972"
+        },
+        {
+          "value": 0.67969,
+          "date": "7/2/1974"
+        },
+        {
+          "value": 0.97917,
+          "date": "7/1/1975"
+        },
+        {
+          "value": 1.11,
+          "date": "6/29/1976"
+        },
+        {
+          "value": 0.98958,
+          "date": "6/28/1977"
+        },
+        {
+          "value": 1.04,
+          "date": "6/27/1978",
+          "label": "Jun 1978",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 1.01,
+          "date": "7/1/1980"
+        },
+        {
+          "value": 1.23,
+          "date": "6/30/1981"
+        },
+        {
+          "value": 0.83854,
+          "date": "6/29/1982"
+        },
+        {
+          "value": 1.45,
+          "date": "6/28/1983"
+        },
+        {
+          "value": 1.12,
+          "date": "6/26/1984",
+          "label": "Jun 1984",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 1.16,
+          "date": "7/2/1985"
+        },
+        {
+          "value": 1.66,
+          "date": "7/1/1986"
+        },
+        {
+          "value": 1.76,
+          "date": "6/30/1987"
+        },
+        {
+          "value": 1.94,
+          "date": "6/28/1988"
+        },
+        {
+          "value": 2.7,
+          "date": "6/27/1989",
+          "label": "Jun 1989",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 3.45,
+          "date": "7/2/1991"
+        },
+        {
+          "value": 4.8,
+          "date": "6/30/1992"
+        },
+        {
+          "value": 6.84,
+          "date": "6/29/1993"
+        },
+        {
+          "value": 6.78,
+          "date": "6/28/1994"
+        },
+        {
+          "value": 7.28,
+          "date": "6/27/1995",
+          "label": "Jun 1995",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 8.63,
+          "date": "7/2/1996"
+        },
+        {
+          "value": 14.53,
+          "date": "7/1/1997"
+        },
+        {
+          "value": 19.28,
+          "date": "6/30/1998"
+        },
+        {
+          "value": 21.38,
+          "date": "6/29/1999"
+        },
+        {
+          "value": 20.55,
+          "date": "6/27/2000",
+          "label": "Jun 2000",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 24.55,
+          "date": "7/2/2002"
+        },
+        {
+          "value": 25.49,
+          "date": "7/1/2003"
+        },
+        {
+          "value": 28.62,
+          "date": "6/29/2004"
+        },
+        {
+          "value": 30.97,
+          "date": "6/28/2005"
+        },
+        {
+          "value": 33.13,
+          "date": "6/27/2006",
+          "label": "Jun 2006",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 23.59,
+          "date": "7/1/2008"
+        },
+        {
+          "value": 24.14,
+          "date": "6/30/2009"
+        },
+        {
+          "value": 25.6,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 28.07,
+          "date": "6/28/2011"
+        },
+        {
+          "value": 32.73,
+          "date": "6/26/2012",
+          "label": "Jun 2012",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 41.22,
+          "date": "7/2/2013"
+        },
+        {
+          "value": 52.66,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 56.91,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 46.97,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 54.33,
+          "date": "6/27/2017",
+          "label": "Jun 2017",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 47.66,
+          "date": "7/2/2019"
+        },
+        {
+          "value": 25.09,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 45.29,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 39.71,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 40.62,
+          "date": "6/27/2023",
+          "label": "Jun 2023",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        }
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "prices": [
+        {
+          "value": 0.038086,
+          "date": "7/2/1974"
+        },
+        {
+          "value": 0.050293,
+          "date": "7/1/1975"
+        },
+        {
+          "value": 0.053711,
+          "date": "6/29/1976"
+        },
+        {
+          "value": 0.056152,
+          "date": "6/28/1977"
+        },
+        {
+          "value": 0.091309,
+          "date": "6/27/1978"
+        },
+        {
+          "value": 0.14941,
+          "date": "7/1/1980",
+          "label": "Jul 1980",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 0.30078,
+          "date": "6/30/1981"
+        },
+        {
+          "value": 0.41309,
+          "date": "6/29/1982"
+        },
+        {
+          "value": 1.18,
+          "date": "6/28/1983"
+        },
+        {
+          "value": 1.24,
+          "date": "6/26/1984"
+        },
+        {
+          "value": 1.63,
+          "date": "7/2/1985",
+          "label": "Jul 1985",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 3.34,
+          "date": "7/1/1986"
+        },
+        {
+          "value": 4.19,
+          "date": "6/30/1987"
+        },
+        {
+          "value": 3.72,
+          "date": "6/28/1988"
+        },
+        {
+          "value": 5,
+          "date": "6/27/1989"
+        },
+        {
+          "value": 10.84,
+          "date": "7/2/1991",
+          "label": "Jul 1991",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 13.41,
+          "date": "6/30/1992"
+        },
+        {
+          "value": 13.13,
+          "date": "6/29/1993"
+        },
+        {
+          "value": 12.31,
+          "date": "6/28/1994"
+        },
+        {
+          "value": 13.44,
+          "date": "6/27/1995"
+        },
+        {
+          "value": 12.44,
+          "date": "7/2/1996",
+          "label": "Jul 1996",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 17.25,
+          "date": "7/1/1997"
+        },
+        {
+          "value": 30.25,
+          "date": "6/30/1998"
+        },
+        {
+          "value": 48.25,
+          "date": "6/29/1999"
+        },
+        {
+          "value": 55.98,
+          "date": "6/27/2000"
+        },
+        {
+          "value": 55.04,
+          "date": "7/2/2002",
+          "label": "Jul 2002",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 55.73,
+          "date": "7/1/2003"
+        },
+        {
+          "value": 52.5,
+          "date": "6/29/2004"
+        },
+        {
+          "value": 48.54,
+          "date": "6/28/2005"
+        },
+        {
+          "value": 47.92,
+          "date": "6/27/2006"
+        },
+        {
+          "value": 56.5,
+          "date": "7/1/2008",
+          "label": "Jul 2008",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 48.37,
+          "date": "6/30/2009"
+        },
+        {
+          "value": 48.07,
+          "date": "6/29/2010"
+        },
+        {
+          "value": 52.64,
+          "date": "6/28/2011"
+        },
+        {
+          "value": 68.59,
+          "date": "6/26/2012"
+        },
+        {
+          "value": 74.76,
+          "date": "7/2/2013",
+          "label": "Jul 2013",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 75.62,
+          "date": "7/1/2014"
+        },
+        {
+          "value": 71.88,
+          "date": "6/30/2015"
+        },
+        {
+          "value": 72.46,
+          "date": "6/28/2016"
+        },
+        {
+          "value": 76.51,
+          "date": "6/27/2017"
+        },
+        {
+          "value": 112.32,
+          "date": "7/2/2019",
+          "label": "Jul 2019",
+          "labelTextStyle": {
+            "color": "lightgray",
+            "width": 80
+          }
+        },
+        {
+          "value": 119.69,
+          "date": "6/30/2020"
+        },
+        {
+          "value": 141.02,
+          "date": "6/29/2021"
+        },
+        {
+          "value": 121.92,
+          "date": "6/28/2022"
+        },
+        {
+          "value": 155.33,
+          "date": "6/27/2023"
+        }
+      ]
+    }
   ]
 }
