@@ -34,13 +34,13 @@ const Home = ({navigation}: HomeProps) => {
         <FlatList
           data={stocksData}
           // eslint-disable-next-line react-native/no-inline-styles
-          contentContainerStyle={{gap: 20, padding: 10}}
+          contentContainerStyle={{gap: 30, padding: 10}}
           renderItem={item => {
             return (
               <Pressable
                 onPress={() =>
                   navigation.navigate('StockDetails', {
-                    stockId: item.item.symbol,
+                    stockId: item.item.ticker,
                   })
                 }>
                 <StockListItem stock={item.item} />
