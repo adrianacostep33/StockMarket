@@ -17,7 +17,7 @@ const ScreenWrapper: React.FC<ScreenWrapperProps> = ({children}) => {
 const styles = StyleSheet.create({
   safeArea: {
     flex: 1,
-    backgroundColor: Colors.dark500,
+    backgroundColor: Colors.dark800,
   },
   container: {
     flex: 1,
