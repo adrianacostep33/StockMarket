@@ -20,13 +20,12 @@ const Home = ({navigation}: HomeProps) => {
         setStocks(response.data);
       })
       .catch(error => {
+        // eslint-disable-next-line no-console
         console.error('Error fetching data:', error);
       });
   }, []);
 
   const stocksData = Object.values(stocks);
-
-  console.log(stocksData[0]);
 
   return (
     <ScreenWrapper>
@@ -34,10 +33,9 @@ const Home = ({navigation}: HomeProps) => {
         <Text style={styles.title}>Available Stocks</Text>
         <FlatList
           data={stocksData}
+          // eslint-disable-next-line react-native/no-inline-styles
           contentContainerStyle={{gap: 20, padding: 10}}
           renderItem={item => {
-            console.log({item});
-
             return (
               <Pressable
                 onPress={() =>

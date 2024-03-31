@@ -15,7 +15,7 @@ const Stack = createNativeStackNavigator<RootStackParamList>();
 
 const StockStack = () => {
   return (
-    <Stack.Navigator initialRouteName="StockDetails">
+    <Stack.Navigator initialRouteName="Home">
       <Stack.Screen
         name="Home"
         component={Home}
@@ -56,6 +56,5 @@ const styles = StyleSheet.create({
     paddingHorizontal: 10,
     backgroundColor: Colors.dark500,
     color: Colors.light500,
-    // borderRadiusBottom: 10,
   },
 });
